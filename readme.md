@@ -6,6 +6,6 @@
 
 - Download code for this demo
 
-- Modify first 7 lines in `demo.m` to include proper path to relevant directories.
+- Modify the first 7 lines in `demo.m` to include proper paths to relevant directories.
 
 - Run `matlab demo.m`
