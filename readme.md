@@ -1,6 +1,6 @@
 ** How to run
 
-- Download some supporting functions from: git@github.com:ductri/my_matlab_libs.git
+- Download some supporting functions from: https://github.com/ductri/my_matlab_libs
 
 - Download a baseline method at: https://github.com/XiaoFuLab/Frank-Wolfe-based-method-for-SD-MMV
 
